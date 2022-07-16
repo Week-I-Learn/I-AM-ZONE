@@ -50,5 +50,6 @@
 
 -   [git flow 에 대하여](./git-flow/README.md)
 -   [software version 작성법](./software-version/README.md)
+-   [monorepo 에 대해서](./monorepo/README.md)
 
 </details>
